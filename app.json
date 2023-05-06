@@ -1,8 +1,8 @@
 {
-  "name": "lavamusic",
-  "description": "Lavamusic a powerful music Discord bot that need in your server",
-  "repository": "https://github.com/brblacky/lavamusic",
-  "logo": "https://media.discordapp.net/attachments/876035356460462090/888434725235097610/20210820_124325.png",
+  "name": "Lyra Music",
+  "description": "An Advanced Music Bot That Supports Many Platforms With The Best Quality Music.",
+  "repository": "https://github.com/Enukx",
+  "logo": "https://media.discordapp.net/attachments/990841493222748230/1104252295081898144/43ec341108a17473cc341d1237503d41.png?width=480&height=480",
   "keywords": ["discord", "discordjs", "music"],
   "env": {    
     "MONGO_URI": {
@@ -12,7 +12,7 @@
     },
     "NODE_HOST":{
       "description":"lavalink host",
-      "value": "disbotlistlavalink.ml",
+      "value": "suki.nathan.to",
       "required": true
     },
     "NODE_ID":{
@@ -27,7 +27,7 @@
     },
     "NODE_PASSWORD":{
       "description":"lavalink password",
-      "value": "LAVA",
+      "value": "adowbongmanacc",
       "required": true
     },
     "NODE_SECURE":{
@@ -36,7 +36,7 @@
       "required": true
     },
     "PREFIX":{
-      "description": "your prefix",
+      "description": "/",
       "value": "!",
       "required": true
      },
@@ -50,11 +50,11 @@
       "required": true
      },
     "OWNERID":{
-      "description": "your discord id",
+      "description": "857630177244872725",
       "required": false
      },
     "TOKEN": {
-      "description": "Your bot's bot token.",
+      "description": "MTA5NzA2NjgxMDQ3MTM3MDc4Mg.GT0qsZ.RTmFHaUCFvV-ZX0vEZvRNE8fRzTASZ70iJc8UE.",
       "required": true
     }
   }
